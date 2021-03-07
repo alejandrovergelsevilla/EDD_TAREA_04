@@ -12,6 +12,7 @@ public class Main {
         System.out.println("El saldo actual es"+ saldoActual );
 
         operativa_cuenta(cuenta1, 0);
+        System.out.println("Tercer cambio realizado sobre el proyecto. Necesario commit");
     }
 
     private static void operativa_cuenta(CCuenta cuenta1, float cuenta) {
